@@ -10,20 +10,27 @@
 <body>
     <header>
         <h1>Loja do Dinho</h1>
+        <button onclick="Cadastro.classilist.remove('oculto')">Novo produto</button>
     </header>
     <main>
-        <div class="card">
-            <h3>Titulo card</h3>
-           <img src="./assets/bone.webp" alt="bone">
-           <p>Preco</p>
-           <button>Detalhes</button>
-        </div>
-        
-        
+       
     </main>
     <footer>
         <h2>By Pedrokk52</h2>
     </footer>
+    <div  id="cadastro" class="modal oculto"></div>
+    <div class="janela">
+        <div>
+            <h3>Cadastro</h3>
+            <button onclick="Window.location.reload()">X</button>
+        </div>
+        <form>
+            <input type="text" name="produto" placeholder="Nome do produto" required>
+            <input type="text" name="Descrição" placeholder="Descrição" required>
+            <input type="number" step="0.01" name="preco" placeholder="preco"required>
+            <input type="text" name="imagem" placeholder="Cole o endereço da imagem"required>
+        </form>
+    </div>
 </body>
 <script src="script.js"></script>
 </html>
