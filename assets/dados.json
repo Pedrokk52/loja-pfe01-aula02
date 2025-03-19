@@ -1,0 +1,80 @@
+[
+    {
+        "id":1,
+        "produto":"boné Preto",
+        "preco":25.9,
+        "imagem":"https://cdn.awsli.com.br/2500x2500/59/59657/produto/17000840/9ae3782780.jpg"
+    },
+    
+    {
+        "id":2,
+        "produto":"Camisa Nike",
+        "preco":"100",
+        "imagem":"https://cdn.awsli.com.br/2500x2500/1714/1714539/produto/301464319/e557ac303ce1294613d160a2305c4a7e-badvelksjs.jpeg"
+    },
+    {
+        "id":3,
+        "produto":"Camisa Palmeiras",
+        "preco":"300",
+        "imagem":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh-97Yyx042rELiON0ez7iDl2vVUVK1FMDpg&s"
+    },
+    {
+        "id":4,
+        "produto":"Tenis Nike",
+        "preco":"550",
+        "imagem":"https://imgcentauro-a.akamaihd.net/1200x1200/98840051A9.jpg"
+    },
+    {
+    
+        "id":6,
+        "produto":"colar",
+        "preco":"170",
+        "imagem":"https://images.tcdn.com.br/img/img_prod/826120/colar_monet_481_1_929fc0c29ee93ad656017e34672f0f39.jpg"
+    },
+    {
+    
+        "id":7,
+        "produto":"chuteira society",
+        "preco":"270",
+        "imagem":"https://futcarioca.com/cdn/shop/files/chuteira-society-botinha-champion-chuteira-society-botinha-champion-grupo-41-futcarioca-azul-bebe-33-897187_800x.webp?v=1706250060"
+    },
+    {
+    
+        "id":8,
+        "produto":"chuteira nike",
+        "preco":"300",
+        "imagem":"https://bayard.vtexassets.com/arquivos/ids/3175822/0802530003-A.jpg?v=638278696210530000"
+    },
+    {
+    
+        "id":9,
+        "produto":"chuteira puma",
+        "preco":"300",
+        "imagem":"https://images.tcdn.com.br/img/img_prod/311840/chuteira_puma_future_z_4_4_njr_tt_bdp_society_laranja_108366_2_e7c02dd8986f805ab7848b88554537a8.jpg"
+    },
+    {
+    
+        "id":10,
+        "produto":"chinelo rider",
+        "preco":"90",
+        "imagem":"https://cdnv2.moovin.com.br/iriacalcados/imagens/produtos/det/chinelo-rider-grendene-12130-branco--0301195896ce8df8a3ed9e2bad598159.jpg"
+    },
+    {
+    
+        "id":11,
+        "produto":"chinelo kenner",
+        "preco":"150",
+        "imagem":"https://images.tcdn.com.br/img/img_prod/1246188/chinelo_kenner_original_rakka_u1_masculino_preto_dourado_1511_1_51c571696b7232aecba1676d9e550f5f.jpg"
+    },
+    {
+    
+        "id":12,
+        "produto":"calça cargo",
+        "preco":"210",
+        "imagem":"https://images.tcdn.com.br/img/img_prod/703344/calca_cargo_reta_jeans_lokal_regulagem_8627_1_ef34a01598083166217966c879c038e9.jpg"
+    }
+    
+    
+    
+]
+    
